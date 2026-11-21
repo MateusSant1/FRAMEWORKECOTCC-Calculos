@@ -4,7 +4,7 @@ Script de verificação determinística dos cálculos do Trabalho de Conclusão 
 
 O script recalcula, a partir dos dados publicados nas fontes, todos os valores numéricos dos cenários simulados do artigo e confere cada um com o valor impresso no texto. Qualquer divergência interrompe a execução com a indicação do teste que falhou.
 
-> **Versão do artigo:** este repositório corresponde à versão `[v1.0-banca]` do artigo. A numeração de tabelas citada no script (Tabelas 4 a 7) refere-se a essa versão.
+> **Versão do artigo:** este repositório corresponde à versão final do artigo. A numeração de tabelas citada no script (Tabelas 4 a 7) refere-se a essa versão.
 
 ## O que o framework faz
 
@@ -101,6 +101,3 @@ Os artigos não são distribuídos neste repositório; consulte-os pelas referê
 
 > SANTOS, M. H. A.; SOUZA, L. S. Desenvolvimento de Framework de Tomada de Decisão Ecológica para IA Corporativa. Trabalho de Conclusão de Curso (Sistemas de Informação) — Universidade Tiradentes, Aracaju, 2026.
 
-## Licença
-
-O código está sob a licença `[MIT]`. Os valores numéricos de entrada pertencem às fontes citadas e são reproduzidos apenas para fins de verificação acadêmica.
