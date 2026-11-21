@@ -82,7 +82,6 @@ Em caso de divergência, a execução para com a mensagem `DIVERGÊNCIA em <test
 | `ESPERA_MS` | 4 h de espera da execução deslocada (metade da janela de 8 h) |
 | Carbono incorporado (M) | 0 (SCI operacional) |
 | Energia do few-shot | Igual à do zero-shot |
-| Qualidade do GPT-4o em sumarização | Aprovada por premissa (não medida nas fontes) |
 | Latência e custo do sumarizador específico | Extrapolados das razões medidas em classificação |
 
 PUE e intensidade da rede valem igualmente para todas as alternativas de um cenário. Por isso alteram os totais anuais, mas não a escolha; o bloco de sensibilidade confirma isso.
